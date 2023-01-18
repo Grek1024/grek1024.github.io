@@ -1,0 +1,474 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.prevue .prevueRectangleFon{
+    width: 805px;
+    height: 556px;
+    z-index: 0;
+    margin: 0 0px 0 714px;
+}
+.prevue .prevueSpans{
+    width: 125px;
+    height: 125px;
+    position: absolute;
+    margin: -495px 0px -18px 1300px;
+    z-index: 0;
+}
+.prevue .prevueMan{
+    position: relative;
+    width : 570px;
+    height: 379px;
+    margin: -423px 0 95px 802px;
+    z-index: 1;
+}
+.prevue .prevueText{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    margin: -420px 0 42px 135px;
+}
+
+.prevue .prevueBtn{
+    width: 343px;
+    height: 68px;
+    background: linear-gradient(90deg,#0BA360,#3CBA92);
+    border: 0;
+    border-radius: 8px;
+    font-size: 20px;
+    font-family: 'Lora';
+    line-height: 25px;
+    font-weight: 700;
+    margin: 0 0 0 135px;
+    color: white;
+}
+/* sc Cases */
+.sucsesfullcases {
+    margin: 0 0 190px 0;
+}
+.sucsesfullcases .scFon{
+    width: 1517px;
+    height: 657px;
+    margin: 95px 0 0px 2px;
+}
+
+h3{
+    text-transform: uppercase;
+    font-size: 32px;
+    line-height: 39px;
+    font-family: 'Montserrat';
+    margin: -428px 542px 68px 553px;
+}
+
+.sucsesfullcases .scWrapper div img{
+    width: 170px;
+    height: 170px;
+}
+
+.sucsesfullcases .scWrapper {
+    display: inline-block;
+        margin: 0 0 143px 24px;
+}
+
+.sucsesfullcases .scWrapper div{
+    display: inline-block;
+    padding: 0 20px 0 20px;
+}
+
+/* numbers */
+
+h4{
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    font-family: 'Montserrat';
+    margin: 0 572px 32px 562px;
+}
+
+.numbers .nubmersText{
+    width: 644px;
+    height: 69px;
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 0 572px 58px 562px;
+}
+
+.numbers .numbersWrapperFirst{
+    margin: 0 305px 16px 369px;
+    display: inline-block;
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    color:#3CBA92;
+}
+
+.numbers .numbersWrapperFirst .block16{
+    padding: 0 135px 0 0;
+}
+
+.numbers .numbersWrapperFirst .block1000{
+    padding: 0 123px 0 0;
+}
+
+.numbers .numbersWrapperFirst .block85{
+    padding: 0 181px 0 0;
+}
+
+.numbers .numbersWrapperSecond{
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    margin: 0 305px 0px 369px;
+}
+
+.numbers .numbersWrapperSecond div{
+    flex-grow: 1;;
+    text-align:left;
+}
+
+.numbers .numbersWrapperSecond .years{
+    padding: 0 84px 0 0;
+}
+
+.numbers .numbersWrapperSecond .clients{
+    padding: 0 91px 0 0;
+}
+
+.numbers .numbersWrapperSecond .clientsAgain{
+    padding: 0 98px 0 0; 
+}
+
+.numbers{
+    margin: 0 0 190px 0;
+}
+
+
+/* feedbacks */
+
+.feedbacks .feedbackH{
+    text-transform: uppercase;
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    margin: 0 0 42px 135px;
+}
+
+.feedbacks .feedbackWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 135px 190px 135px;
+}
+
+.feedbacks .feedbackWrapper img{
+    width: 370px;
+    height: 317px;
+}
+
+/* question */
+
+.questions .questionsRectangle{
+    z-index: 0;
+    width: 805px;
+    height: 675px;
+    margin: 0 0 0 714px;
+}
+
+.questions .questionsSpans{
+    width: 125px;
+    height: 125px;
+    margin: 24px 0px 0px -163px;
+    position: absolute;
+}
+.sucsesfullcases {
+    margin: 0 0 300px 0;
+}
+
+h6{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    margin: -568px 0 42px 135px;
+}
+/* 
+.questionWrapper{
+    margin: 0 0 32px 135px;
+}
+ .questionWrapper div{
+    width: 570px;
+    height: 54px;
+    border: 1px #000000 solid;
+    border-radius: 5px;
+}  
+
+
+  .questionWrapper div img{
+    display: inline-block;
+   
+    width: 20px;
+    height: 20px;
+    padding: 15px 14px 0px 14px;
+}
+  
+  .questionWrapper div p{
+    display: inline-block;
+     
+   
+} 
+.questionWrapper div{
+    margin: 0 0 20px 0;
+}
+
+.questionWrapper .questionsCaseFirst p{
+    position: absolute;
+    padding: 16px 0 0 0;
+}
+
+.questionWrapper .questionsCaseSecond p{
+    position: absolute;
+    padding: 15px 0 0 0;
+}
+
+.questionWrapper .questionsCaseThird p{
+    position: absolute;
+    padding: 16px 0 0 0;
+}
+
+.questionWrapper .questionsCaseFourth p{
+    position: absolute;
+    padding: 17px 0 0 0;
+}
+.questionWrapper .questionsCaseFifth p{
+    position: absolute;
+    padding: 15px 0 0 0;
+} 
+
+.questionWrapper div .hiddenP{
+    font-weight: 'Lora';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    position: absolute;
+    display: none;
+} */
+/* !!!!!!!!!!!!!!!!!!!!!!!!! */
+ 
+.toggle-box {
+  display: none;
+}
+.toggle-box + label {
+    margin: 15px 0 0 48px;
+    display: block;
+}
+.toggle-box + label + div {
+    display: none;
+}
+.toggle-box:checked + label + div {
+  position: absolute;
+  display: block;
+  background: white;
+  width: 570px;
+  padding: 5px;
+  margin: 0 0 0 -2px;
+  font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+}
+/* demo position */
+.demo {
+    font-family: 'Lora';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 0 0 20px 0;
+}
+
+
+.firstCase{
+    
+    width: 570px;
+    height: 54px;
+    border: 1px #000000 solid;
+    border-radius: 5px;
+}
+
+.secondCase{
+  
+    width: 570px;
+    height: 54px;
+    border: 1px #000000 solid;
+    border-radius: 5px;
+}
+
+.thirdCase{
+    width: 570px;
+    height: 54px;
+    border: 1px #000000 solid;
+    border-radius: 5px;
+}
+
+.fourthCase{
+    width: 570px;
+    height: 54px;
+    border: 1px #000000 solid;
+    border-radius: 5px;
+}
+
+.fifthCase{ 
+    width: 570px;
+    height: 54px;
+    border: 1px #000000 solid;
+    border-radius: 5px;
+    margin: 0px 0 32px 0;
+}
+
+.questionWrapper{
+    margin: 0 0 0 135px;
+}
+
+
+.questionWrapper .youHaveQ{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    margin: 0 0 20px; 
+}
+
+h6 {
+    margin: -590px 0 42px 135px;
+}
+.questionWrapper {
+    margin: 0 0 190px 135px;
+}
+.questionWrapper .youHaveQF a{
+    font-family: 'Lora';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3CBA92;
+    text-decoration: none;
+}
+
+/* office */
+
+.office .officeTxtfitst{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    margin: 0 0 32px 135px;
+}
+
+.office .officeTxtsecond{
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 0 0 42px 135px;
+}
+
+.office .officeimg{
+    width: 1240px;
+    height: 780px;
+    margin: 0 135px 190px 135px;
+}
+
+
+footer{
+    width: 100%;
+    height: 342px;
+    background-color:#3B3A37;
+}
+
+footer .footerLogo{
+    width: 236px;
+    height: 100px;
+    margin: 80px 0 0 124px;
+}
+
+footer .footerFirstTxt{
+    position: absolute;
+    display: grid;
+    width: 290px;
+    margin: -80px 0 0 440px;
+}
+
+footer .footerFirstTxt a{
+    padding: 0 0 18px 0;
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    grid-column: 1;
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+footer .footerFirstTxt p{
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: white;
+}
+
+
+
+footer .footerSecondTxt{
+    margin:-81px 0 0 800px;
+    width: 90px;
+    position: absolute;
+    display: grid;
+    
+}
+
+footer .footerSecondTxt a{
+    padding: 0 0 18px 0;
+    grid-column: 1;
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color:white;   
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+footer .footerThirdTxt{
+    margin:-82px 0 0 1028px;
+    width: 400px;
+    position: absolute;
+    display: grid;
+}
+
+footer .footerThirdTxt p{
+    padding: 0 0 18px 0;
+    grid-column: 1;
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color:white;   
+    display: inline-block;
+    
+}
+
+footer .footerThirdTxt a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color:white;
+    line-height: 23px;
+}
