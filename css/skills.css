@@ -1,0 +1,144 @@
+/* ------ SKILLS START  ------*/
+
+.headerSkills{
+    margin: 20px 0 0 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cirle__skills{
+    margin: 0 auto;
+    background: darkorange;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    z-index: -1;
+}
+.skills__title-fs16{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 130px;
+    padding: 23px 44px 0 4px;
+}
+
+.skills__title-fs36{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 28px;
+}
+
+.skills__divider{
+    margin-bottom: 60px;
+}
+
+/* ------ SKILLS-BLOCKS START ------*/
+
+.blocks__wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-auto-rows: 300px;
+    gap: 10px 10px;
+    margin-left: 315px ;
+    margin-bottom: 120px;
+}
+
+.block{ 
+    width: 270px;
+    height: 270px;
+    border: 1px solid black;
+    padding: 30px 30px 30px 30px;
+}
+
+.block__text{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.block__title{
+    margin: 20px 0 20px 0;
+    font-weight: 700;
+}
+
+.skills-block{
+    font-size: 20px;
+    margin: 50px 0 10px 35px;
+}
+
+/* ------ SKILLS-BLOCKS END ------*/
+
+
+
+/* ------ SCROLL-BAR START  ------*/
+
+.block__scroll-bar--cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 350px;
+    height: 70px;
+}
+
+.block__line{ 
+    width: 350px;
+    height: 14px;
+    background: #E8E4DE;
+    border-radius: 4px;
+    position: absolute;
+}
+
+.block__line-orange{
+    width: 280px;
+    height: 14px;
+    background: darkorange;
+    border-radius: 4px;
+}
+
+.block__scroll-bar{
+    padding: 20px 20px 20px 20px;
+}
+
+/* .block__line{
+    width: 310px;
+    height: 14px;
+    background: darkorange;
+    border-radius: 4px;
+} */
+
+.block__line-orange--creat{
+    width: 264px;
+    height: 14px;
+    background: darkorange;
+    border-radius: 4px;
+}
+
+.block__line-orange--design{
+    width: 320px;
+    height: 14px;
+    background: darkorange;
+    border-radius: 4px;
+}
+
+/* ------ SCROLL-BAR END  ------*/
+
+.container__scroll-bar{
+    display: flex;   
+    flex-direction: column;
+    align-items: center;
+    margin: 0px 300px 180px 300px;
+    padding: 0 45px 30px 45px;
+    row-gap: 10px;
+}
+
+
+
+/* ------ SKILLS END  ------*/
+
+
+
+
+
+
